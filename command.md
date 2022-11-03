@@ -1,3 +1,5 @@
+# ssh username@ipadrress
+- helps you login into server
 # ls 
 - lists all the files in the directory.
 # cd 
